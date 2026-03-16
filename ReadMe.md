@@ -1,3 +1,12 @@
+<h1 align="center">Hi, I'm Daniele 👋</h1>
+<h3 align="center">Full-Stack Developer & Cybersecurity Enthusiast</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Cybersecurity+%26+RFID+Researcher;Home+Automation+Tinkerer;Always+learning%2C+always+building." alt="Typing SVG" />
+  </a>
+</p>
+
 # 💫 About Me:
 🛠️ **I'm currently working on**<br>'Experimenting with home automation ecosystems and RFID security research using Proxmark 3 and Kali Linux.'<br><br>🤝 **I'm looking to collaborate on**<br>'Security-focused projects, CTF challenges, or anything at the intersection of hardware hacking and software - always down to learn and build something new.'<br><br>🧭 **I'm looking for help with**<br>`Finding the right path in cybersecurity - resources, communities, and advice from people already in the field.`<br><br>📖 **I'm currently learning**<br>`Navigating my cybersecurity journey — exploring ethical hacking, network security, and low-level hardware attacks.`<br><br>💬 **Ask me about**<br>`Home automation, RFID/NFC security, Proxmark 3, or just getting started in cybersecurity as a uni student.`<br><br>⚡ **Fun fact**<br>`I used to work as a lifeguard - I can save you in real life, and I'm learning cybersecurity so I can save your PC too.`
 
